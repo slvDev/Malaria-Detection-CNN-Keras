@@ -13,3 +13,20 @@ The dataset contains 27,558 images separated into two folders Infected - Uninfec
 - Malaria is in fifth place in the number of deaths per year among infectious diseases.
 - Each year, about 30,000 people visiting dangerous areas become infected with malaria
 - About 1 million people die from malaria every year.
+
+### What we need to solve the problem:
+
+- Initial step
+  - git init
+  - import libraries
+  - etc
+- Data processing
+  - Plotting random images
+  - Split data
+  - Define resizing if it needed
+- Build the model
+  - Build a network
+  - Run it
+  - Plot acc and loss
+  - Repeat
+- Evaluate on test data
