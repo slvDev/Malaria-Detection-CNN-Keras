@@ -30,3 +30,9 @@ The dataset contains 27,558 images separated into two folders Infected - Uninfec
   - Plot acc and loss
   - Repeat
 - Evaluate on test data
+
+As a result, we have 97% of accuracy.
+
+[This kernel on kaggle.com](https://www.kaggle.com/slvdev/malaria-classification-problem-keras-cnn-97)😺
+
+Support me on [kaggle.com](https://www.kaggle.com/slvdev) 😽
